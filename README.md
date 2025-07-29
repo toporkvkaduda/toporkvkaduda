@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**toporkvkaduda/toporkvkaduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1>🤖 🧠 📈 🔍 toporkvkaduda 🤖 🧠 📈 🔍</h1>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toporkvkaduda&layout=compact&theme=radical)
+</div>
+## About Me
+- 🔍 Exploring osint ai chrome
+- 🌱 Learning AI & OSINT
+## Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python)
+## GitHub Stats
+<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=toporkvkaduda&color=blue)</div>
+## Connect
+<div align="center">[GitHub](https://github.com/toporkvkaduda)</div>
