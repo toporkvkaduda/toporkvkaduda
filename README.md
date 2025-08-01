@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://t.me/PhishDestroy_bot" target="_blank">
+<a href="https://t.me/toporkvkaduda" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
 </a>
 
